@@ -1,4 +1,4 @@
-
+package Model;
 public class Mesa {
 	
 	private Setor setor;

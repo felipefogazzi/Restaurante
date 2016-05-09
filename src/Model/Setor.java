@@ -1,4 +1,6 @@
-import java.util.*;
+package Model;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Setor {
 	
